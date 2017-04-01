@@ -1,0 +1,20 @@
+{
+  "name": "the-daily-zot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "body-parser": "1.17.1",
+    "express": "4.15.2",
+    "source-map-support": "0.4.11"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "6.10.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colin Teal",
+  "license": "ISC"
+}
